@@ -9,10 +9,20 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"><a href="#"></a></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"><a href="#"></a></script>
   <script src="https://cdn.tailwindcss.com"><a href="#"></a></script>
-</head>
-<body class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background.jpg)] bg-blend-overlay bg-black/50">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    body {
+    font-family: 'Poppins', sans-serif;
+    }
+</style>
 
-  <div class="navbar navbar-inverse">
+</head>
+<body class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
+
+  <div class="navbar navbar-inverse mt-[0]">
     <div class="navbar-fluid">
       <div class="navbar-header">
         <a href="#" class="navbar-brand">Andiason.</a>
@@ -24,29 +34,32 @@
         <li><a href="#">Services</a></li>
         <li><a href="#">Hacking</a></li>
         <li><a href="#">Software</a></li>
+        </ul>
+           <ul class="nav navbar-nav absolute right-[20px]">
+          <li><a href="#">SignUp <i class="glyphicon glyphicon-user"></i></a></li>
+          <li><a href="#">Logout <i class="glyphicon glyphicon-log-out"></i></a></li>
+        </ul>
+      
         </div>
-      </ul>
+
+     
     </div>
   </div>
   
-  <div class="jumbotron text-center bg-black/50 text-white">
-    <h1>SPIDERWEB</h1>
-    <p><strong class="text-[15px]">Connected. Private. Secured.</strong></p>
+  <div class="jumbotron text-center bg-black/0 text-white">
+    <h1><strong class="text-[100px]">SPIDERWEB</strong></h1>
   </div>
 
     <div class="container-fluid mt-[50px] h-[50vh]">
     <div class="row">
-       <div class="col-sm-6">
+       <div class="col-sm-6 [background-image:linear-gradient(90deg,transparent_50%,rgba(0,0,0,0.6))">
           <h1><blockquote class="border-1-4 border-green-700 text-[40px]">Welcome to our site</blockquote></h1>
           <p>
-            <blockquote class="border-1-4 border-green-600 text-justify">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-            Dolorem omnis beatae consectetur totam obcaecati facilis, sed exercitationem, 
-            voluptates fuga corporis culpa quisquam, modi reprehenderit. 
-            Quo iusto nulla beatae quia exercitationem?
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-            Dolorem omnis beatae consectetur totam obcaecati facilis, sed exercitationem, 
-            voluptates fuga corporis culpa quisquam, modi reprehenderit. 
+            <blockquote class="border-1-4 border-green-600 text-justify text-[15px]">
+          Welcome to my website! This platform is part of my personal journey in learning 
+          and improving my skills through practice and hands-on training. Here, I experiment 
+          with different tools, designs, and techniques to enhance my knowledge in web development and related technologies. 
+          Everything you see on this site reflects my progress, creativity, and dedication to continuous learning 
            
           </blockquote>
           </p>
@@ -55,7 +68,7 @@
           </button>
           
            <button class="btn border-1 border-white mt-[50px] ml-[25px] hover:bg-yellow-500 hover:text-black w-[30%] transition-all delay-50 duration-200 ease-in-out">
-            Documentation <span class="glyphicon glyphicon-forward ml-[15px]"></span>
+            Documentation <span class="glyphicon glyphicon-th-large ml-[15px]"></span>
           </button>
           
       </div>
