@@ -12,7 +12,6 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  
   <style>
     body {
     font-family: 'Poppins', sans-serif;
@@ -30,7 +29,7 @@
 
       <div class="flex justify-center">
       <ul class="nav navbar-nav ">
-        <li><a href="#">Programming</a></li>
+        <li><a href="programming">Programming</a></li>
         <li><a href="#">Services</a></li>
         <li><a href="#">Hacking</a></li>
         <li><a href="#">Software</a></li>
@@ -47,13 +46,13 @@
   </div>
   
   <div class="jumbotron text-center bg-black/0 text-white">
-    <h1><strong class="text-[100px]">SPIDERWEB</strong></h1>
+    <h1><strong class="text-[100px]">ANDIASON WEB <i class="glyphicon glyphicon-signal"></i></strong></h1>
   </div>
 
     <div class="container-fluid mt-[50px] h-[50vh]">
     <div class="row">
        <div class="col-sm-6 [background-image:linear-gradient(90deg,transparent_50%,rgba(0,0,0,0.6))">
-          <h1><blockquote class="border-1-4 border-green-700 text-[40px]">Welcome to our site</blockquote></h1>
+          <h1><blockquote class="border-1-4 border-green-700 text-[35px]">Welcome to my Personal Site</blockquote></h1>
           <p>
             <blockquote class="border-1-4 border-green-600 text-justify text-[15px]">
           Welcome to my website! This platform is part of my personal journey in learning 
@@ -64,7 +63,7 @@
           </blockquote>
           </p>
           <button class="btn border-1 border-white mt-[50px] ml-[25px] hover:bg-yellow-500 hover:text-black w-[30%] transition-all delay-50 duration-200 ease-in-out">
-            Get Started <span class="glyphicon glyphicon-globe ml-[15px]"></span>
+            Get Started <span class="glyphicon glyphicon-menu-right ml-[15px]"></span>
           </button>
           
            <button class="btn border-1 border-white mt-[50px] ml-[25px] hover:bg-yellow-500 hover:text-black w-[30%] transition-all delay-50 duration-200 ease-in-out">
@@ -74,35 +73,35 @@
       </div>
 
       <div class="col-sm-6">
-        <img src="hacking1.jpg" alt="" class="h-[50vh] w-[100%]">
+        <img src="hacking1.jpg" alt="" class="h-[50vh] w-[100%] img-rounded">
       </div>
      
     </div>
   </div>
 
   <div class="container mt-[20px]">
-    <h2><blockquote class="border-1-4 border-green-600 text-[25px]">Newest</blockquote></h2>
+    <h2><blockquote class="border-1-4 border-green-600 text-[25px]"> <i class="glyphicon glyphicon-fire text-orange-500 pr-[10px]"></i>Newest </blockquote></h2>
     <div class="row mt-[10px]">
 
       <div class="col-sm-4">
-        <img src="programmer1.jpg" alt="" class="img-rounded">
+        <img src="photos/photo1.jpg" alt="" class="img-rounded object-cover  aspect-[4/3]">
         
       </div>
 
-      <div class="col-sm-4">
-        <img src="programmer2.jpg" alt="" class="img-rounded">
+      <div class="col-sm-4 aspect-[4/3]">
+        <img src="photos/photo2.jpg" alt="" class="img-rounded object-cover  aspect-[4/3]">
       
       </div>
 
-      <div class="col-sm-4">
-          <img src="programmer3.jpg" alt="" class="img-rounded">
+      <div class="col-sm-4 aspect-[4/3]">
+          <img src="photos/photo3.jpg" alt="" class="img-rounde object-cover  aspect-[4/3]">
       
       </div>
          
       </div>
   </div>
   <div class="container mt-[20px]">
-       <h1><blockquote class="border-1-4 border-green-500 text-[25px]">Table Information</blockquote></h1> 
+       <h1><blockquote class="border-1-4 border-green-500 text-[25px]"><i class="glyphicon glyphicon-signal pr-[10px]"></i> Table Information </blockquote></h1> 
     <table class="table table-bordered table-hover mt-[30px]">
 
       <tr class=" hover:text-black">
@@ -133,32 +132,56 @@
     
 
   <div class="container mt-[30px]">
-    <h1><blockquote class="border-1-4 border-green-500 text-[25px] hover:bg-green-500/20 transition-all delay-200 duration-500 ease-in-out">Photos</blockquote></h1>
+    <h1><blockquote class="border-1-4 border-green-500 text-[25px] hover:bg-green-500/20 transition-all delay-200 duration-500 ease-in-out"><i class="glyphicon glyphicon-picture pr-[10px]"></i>Courses </blockquote> </h1>
 
     <div class="row mt-[20px]">
       <div class="col-sm-4">
-        <div class="thumbnail border-0">
-          <img src="programmer1.jpg" alt="" class="img-rounded">
+        <div class="thumbnail border-0 bg-white/0">
+          <img src="hacking3.jpg" alt="" class="img-rounded aspect-[4/3]">
           <div class="caption">
-            <p>Programmer is everything.</p>
+            <div class="row">
+               <div class="col-sm-7 mt-3 text-right">
+                <p><strong class="text-white">UI DESIGN</strong></p>
+              </div>
+              <div class="col-sm-4 absolute right-0">
+              <a href="#" class="btn border-1 border-white top-0 text-white hover:bg-white hover:text-black">see more..</a>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>
 
-        <div class="col-sm-4">
-        <div class="thumbnail border-0">
-          <img src="programmer1.jpg" alt="" class="img-rounded">
+           <div class="col-sm-4">
+        <div class="thumbnail border-0 bg-white/0">
+          <img src="hacking4.jpg" alt="" class="img-rounded aspect-[4/3]">
           <div class="caption">
-            <p>Programmer is everything.</p>
+            <div class="row">
+               <div class="col-sm-8 mt-3 text-right">
+                <p><strong class="text-white">DATA ANALYST</strong></p>
+              </div>
+              <div class="col-sm-4 absolute right-0">
+                <a href="#" class="btn border-1 border-white top-0 text-white hover:bg-white hover:text-black">see more..</a>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>
 
-        <div class="col-sm-4">
-        <div class="thumbnail border-0">
-          <img src="programmer1.jpg" alt="" class="img-rounded">
+          <div class="col-sm-4">
+        <div class="thumbnail border-0 bg-white/0">
+          <img src="programmer2.jpg" alt="" class="img-rounded aspect-[4/3]">
           <div class="caption">
-            <p>Programmer is everything.</p>
+            <div class="row">
+               <div class="col-sm-8 mt-3 text-right">
+                <p><strong class="text-white">UI DESIGN</strong></p>
+              </div>
+              <div class="col-sm-4 absolute right-0">
+                <a href="#" class="btn border-1 border-white top-0 text-white hover:bg-white hover:text-black">see more..</a>
+              </div>
+            </div>
+            
           </div>
         </div>
       </div>
@@ -168,7 +191,7 @@
 
   <div class="container mt-[20px]">
     <div class="page-header">
-      <h1><blockquote class="border-1-4 border-green-600 text-[30px]">Why We Serve People.</blockquote></h1>
+      <h1><blockquote class="border-1-4 border-green-600 text-[30px]"><i class="glyphicon glyphicon-briefcase top-[5px] pr-[10px]"></i>Why We Serve People. </blockquote></h1>
     </div>
     <h2 class="text-[20px]"><span class="glyphicon glyphicon-user text-green-500 pr-[10px]"></span>We ethically followed the social justice</h2>
     
@@ -210,7 +233,7 @@
   </div>
 
   <div class="container mt-[25px]">
-   <p><blockquote class="border-1-4 border-green-600 text-[30px]">Button Classified</blockquote></p>
+   <p><blockquote class="border-1-4 border-green-600 text-[30px]"> <i class="glyphicon glyphicon-tasks pr-[10px] top-[5px]"></i>Button Classified </blockquote></p>
     
     <div class="row mt-[20px]">
      
@@ -288,7 +311,7 @@
   <h1><blockquote class="border-1-4 border-green-500 text-[25px]">Favorate Anime <span class="badge bg-yellow-800">new</span></blockquote></h1>
     <div class="row mt-[50px]">
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime1.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Naruto Shippuden</strong></p>
@@ -297,7 +320,7 @@
       </div>
 
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime2.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Black clover</strong></p>
@@ -306,7 +329,7 @@
       </div>
 
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime3.png" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Bleach</strong></p>
@@ -315,7 +338,7 @@
       </div>
 
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime4.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Hero Academia</strong></p>
@@ -324,7 +347,7 @@
       </div>
 
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime5.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Demon Slayer</strong></p>
@@ -333,7 +356,7 @@
       </div>
 
       <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime6.png" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Solo Leveling </strong></p>
@@ -342,7 +365,7 @@
       </div>
       
          <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime7.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">One Piece</strong></p>
@@ -351,7 +374,7 @@
       </div>  
 
          <div class="col-sm-3">
-        <div class="thumbnail border-0 bg-black/50 text-center">
+        <div class="thumbnail border-0 bg-black/10 text-center">
           <img src="anime8.jpg" alt="" class="img-rounded">
           <div class="caption">
             <p><strong class="text-white">Attack on Titan</strong></p>

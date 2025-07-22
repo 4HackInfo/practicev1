@@ -25,3 +25,7 @@ Route::post('/register',[RegisterController::class, 'submit'])->name('register.s
 Route::get('/about', function(){
     return view('about');
 });
+
+Route::get('/programming', function(){
+    return view('programming');
+});
