@@ -1,4 +1,4 @@
-<img src="logo.png">
+<img src="logo.png" align="center">
 
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
