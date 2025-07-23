@@ -12,4 +12,4 @@
 - [💲 npm run build]()
 - [💲 npm run dev]()
 
-- [ use this []() if you want like this ui in the readme]()
+- [ use this '[]()' if you want like this ui in the readme]()
