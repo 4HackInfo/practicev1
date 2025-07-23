@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://pngdownload.io/wp-content/uploads/2023/12/Gojo-Satoru-Jujutsu-Kaisen-Character-PNG-Transparent-Powerful-Sorcerer-Anime-Icon-Charismatic-Teacher-jpg.webp" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://pngate.com/wp-content/uploads/2025/03/gojo-satoru-anime-character-1.png" width="400" alt="Laravel Logo"></a></p>
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
 
