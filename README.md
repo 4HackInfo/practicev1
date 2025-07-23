@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://w7.pngwing.com/pngs/490/971/png-transparent-naruto-uzumaki-naruto-shipp%C5%ABden-kakashi-hatake-itachi-uchiha-naruto-hand-fictional-character-cartoon.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://pngdownload.io/wp-content/uploads/2023/12/Gojo-Satoru-Jujutsu-Kaisen-Character-PNG-Transparent-Powerful-Sorcerer-Anime-Icon-Charismatic-Teacher-jpg.webp" width="400" alt="Laravel Logo"></a></p>
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
 
