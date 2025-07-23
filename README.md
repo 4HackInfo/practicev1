@@ -1,4 +1,5 @@
-<p align="center"><a href="https://pngate.com/wp-content/uploads/2025/03/gojo-satoru-anime-character-1.png" width="400" alt="Laravel Logo"></a></p>
+<img src="https://pngate.com/wp-content/uploads/2025/03/gojo-satoru-anime-character-1.png">
+
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
 
