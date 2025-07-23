@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>My Services</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"><a href="#"></a></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"><a href="#"></a></script>
@@ -18,7 +18,7 @@
     }
 </style>
 </head>
-<body id="main-body" class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
+<body id="main-body" class="w-full h-screen bg-cover transition-all delay-20 duration-500 ease-in-out text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
 
     @include('partials.header')
 
