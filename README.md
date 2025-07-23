@@ -1,4 +1,4 @@
-<img src="blob:https://www.facebook.com/7f9ecb2a-d069-4444-88a8-5a4aebcea40e">
+<img src="https://www.facebook.com/7f9ecb2a-d069-4444-88a8-5a4aebcea40e">
 
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
