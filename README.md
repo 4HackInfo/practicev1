@@ -8,7 +8,7 @@
 
 
 [💻separte Terminal]()
-- [💲 npm install]()
+- [`💲 npm install`]()
 - [💲 npm run build]()
 - [💲 npm run dev]()
 
