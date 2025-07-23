@@ -9,7 +9,7 @@
 
 [💻separte Terminal]()
 - [`💲 npm install`]()
-- [💲 npm run build]()
-- [💲 npm run dev]()
+- [`💲 npm run build`]()
+- [`💲 npm run dev`]()
 
 - [use this if you want like this ui in the readme`[note](link)`]
