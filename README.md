@@ -1,4 +1,4 @@
-<img src="https://pngate.com/wp-content/uploads/2025/03/gojo-satoru-anime-character-1.png">
+<img src="https://i.pinimg.com/736x/97/34/b5/9734b50998ff796611f9d5eb17627b1e.jpg">
 
 
 # ░░░░░░░░░ᗩᑎᗪIᗩᔕOᑎ ᑭᖇᗩᑕTIᑕE ᐯ1░░░░░░░░░
