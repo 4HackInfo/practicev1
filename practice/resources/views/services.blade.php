@@ -18,15 +18,15 @@
     }
 </style>
 </head>
-<body class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
+<body id="main-body" class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
 
     @include('partials.header')
 
     <div class="container flex justify-center h-[80vh]">
         <div class="row flex items-center">
             <div class="col-sm-12 text-center">
-                <h1><strong class="text-[100px]">Services</strong></h1>
-                <h2><strong class="text-[20px]">This is my programming language I been used.</strong></h2>
+                <h1><strong class="text-[100px]">SERVICES<span class="glyphicon glyphicon-briefcase text-[80px] ml-[10px]"></span></strong></h1>
+                <h2><strong class="text-[20px]">Show below that provided Services</strong></h2>
                 <button class="btn border-1 border-white bg-white/0 mt-[50px] hover:text-white hover:bg-black/50">
                     Get started <span class="glyphicon glyphicon-triangle-bottom "></span></button>
             </div>

@@ -29,3 +29,14 @@ Route::get('/about', function(){
 Route::get('/programming', function(){
     return view('programming');
 });
+
+Route::get('/services', function(){
+    return view('services');
+});
+
+Route::get('/framework', function(){
+    return view('framework');
+});
+
+
+

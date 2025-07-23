@@ -19,31 +19,9 @@
 </style>
 
 </head>
-<body class="w-full h-screen bg-cover text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
+<body id="main-body" class="w-full h-screen bg-cover transition-all delay-20 duration-500 ease-in-out text-white bg-fixed bg-center bg-[url(background2.jpg)] bg-blend-overlay bg-black/80">
 
-  <div class="navbar navbar-inverse mt-[0]">
-    <div class="navbar-fluid">
-      <div class="navbar-header">
-        <a href="#" class="navbar-brand">Andiason.</a>
-      </div>
-
-      <div class="flex justify-center">
-      <ul class="nav navbar-nav ">
-        <li><a href="programming">Programming</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Hacking</a></li>
-        <li><a href="#">Software</a></li>
-        </ul>
-           <ul class="nav navbar-nav absolute right-[20px]">
-          <li><a href="#">SignUp <i class="glyphicon glyphicon-user"></i></a></li>
-          <li><a href="#">Logout <i class="glyphicon glyphicon-log-out"></i></a></li>
-        </ul>
-      
-        </div>
-
-     
-    </div>
-  </div>
+  @include('partials.header')
   
   <div class="jumbotron text-center bg-black/0 text-white">
     <h1><strong class="text-[100px]">ANDIASON WEB <i class="glyphicon glyphicon-signal"></i></strong></h1>
@@ -385,28 +363,8 @@
   </div>
 
 <!--FOOTERrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr-->
-  <div class="container h-[50vh]"></div>
 
-  <footer class="bg-blue-900 text-white p-10 flex justify-center w-[100%]">
-    <div class="container text-center font-bold">
-      <div class="row">
-          <div class="col-sm-4">
-            <p class="pb-10">Sponsored by: Google</p>
-            <p>created by : Andiason</p>
-          </div>
-
-          <div class="col-sm-4">
-            <p  class="pb-10">copyright AllReserved. 2025</p>
-            <p>manufacture X-Agency.</p>
-          </div>
-          
-          <div class="col-sm-4">
-            <p  class="pb-10">Project Capstone</p>
-            <p>Team S-Group</p>
-          </div>
-      </div>
-    </div>
-  </footer>
+@include('partials.footer')
 
 <script>
 
