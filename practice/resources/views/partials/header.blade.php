@@ -12,6 +12,7 @@
         <li><a href="services">Services</a></li>
         <li><a href="framework">Framework</a></li>
         <li><a href="about">About Me</a></li>
+        <li><a href="games">Games</a></li>
         </ul>
           
         <ul class="nav navbar-nav w-[10%] flex justify-end object-center">

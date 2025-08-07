@@ -38,5 +38,9 @@ Route::get('/framework', function(){
     return view('framework');
 });
 
+Route::get('/games', function(){
+    return view('games');
+});
+
 
 
