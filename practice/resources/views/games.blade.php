@@ -94,7 +94,22 @@
       ctx.fillStyle = "lime";
       ctx.font = "20px monospace";
       ctx.fillText("Score: " + score, 10, 30);
-
+     
+      if(score>=100){
+      alert("Success!");
+        
+      alert("Alert : Stage 2 ")
+      let choice = prompt("did you want to play again? [y/n] :");
+      if(choice==='y' || choice ==='Y'){
+            score = 0;
+            setInterval(spawnEnemy, 5000);
+            gameLoop();
+        
+      }
+      else{
+        return 0;
+      }
+      }
       requestAnimationFrame(gameLoop);
     }
 
@@ -114,7 +129,8 @@
     });
 
     // Game Start
-    setInterval(spawnEnemy, 1500);
+   
+    setInterval(spawnEnemy, 5000);
     gameLoop();
   </script>
 </body>
